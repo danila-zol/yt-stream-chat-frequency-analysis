@@ -1,0 +1,97 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.npy
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Project specific
+*.mp4
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.webm
+*.mkv
+*.avi
+*.mov
+*.wmv
+*.flv
+*.vtt
+*.srt
+*.csv
+*.tsv
+*.json
+*.sh
+out/
+highlight_reel_*.mp4
+make_highlight_reel_*.sh
+chat_peaks_*.csv
+peak_timestamps_*.csv
+test_output.png
+sliding.csv
+histogram.csv
+*.log
+*.tmp
+*.temp
+samples
+!research/**/*.png
+!research/**/*.csv

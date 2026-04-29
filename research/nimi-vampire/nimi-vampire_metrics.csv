@@ -1,0 +1,28 @@
+metric,value,note
+stream_name,nimi-vampire,
+stream_duration_s,9370.0,
+n_unique_clippers,2,
+total_clipped_s,1182.5,
+clipped_pct_of_stream,12.62,
+n_regions_z0,21,
+total_region_s_z0,3710.0,
+region_pct_of_stream_z0,39.59,
+regions_covered_at_0pct_z0,16,16/21 = 76.2%
+regions_covered_at_25pct_z0,6,6/21 = 28.6%
+regions_covered_at_50pct_z0,0,0/21 = 0.0%
+regions_covered_at_75pct_z0,0,0/21 = 0.0%
+mean_coverage_frac_z0,0.159,
+recall_s_z0,0.1601,engagement-seconds covered / total engagement-seconds
+n_regions_z05,13,
+total_region_s_z05,1670.0,
+region_pct_of_stream_z05,17.82,
+regions_covered_at_0pct_z05,8,8/13 = 61.5%
+regions_covered_at_25pct_z05,4,4/13 = 30.8%
+regions_covered_at_50pct_z05,0,0/13 = 0.0%
+regions_covered_at_75pct_z05,0,0/13 = 0.0%
+mean_coverage_frac_z05,0.1421,
+recall_s_z05,0.1437,engagement-seconds covered / total engagement-seconds
+precision_z0,0.5023,clipped-in-region / total-clipped
+precision_z05,0.203,clipped-in-region / total-clipped
+pointbiserial_r,0.0631,
+pointbiserial_p,0.054483,
